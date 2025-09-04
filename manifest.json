@@ -1,0 +1,17 @@
+{
+  "name": "Block Merge Game",
+  "short_name": "BlockMerge",
+  "description": "Увлекательная игра-головоломка с падающими блоками",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#34495e",
+  "theme_color": "#2c3e50",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
